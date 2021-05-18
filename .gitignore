@@ -2,3 +2,6 @@
 **/obj
 **/bin
 **/.idea
+**/wwwroot/dist
+.gitignore~
+.DS_Store
