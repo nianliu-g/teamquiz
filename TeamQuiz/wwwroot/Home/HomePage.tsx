@@ -8,6 +8,9 @@ const HomePage = () => (
         <Link to="createNewQuiz">
             Create New Quiz Now
         </Link>
+        <Link to="answerQuiz/q1erw">
+            Answer a quiz
+        </Link>
     </div>
 );
 
